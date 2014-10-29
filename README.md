@@ -1,4 +1,4 @@
-micro-rpg-catalog
+Micro RPG catalog
 =================
 
-A bunch of resources for micro-mini RPG systems
+A bunch of resources for micro-mini RPG systems.
