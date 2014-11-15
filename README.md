@@ -8,7 +8,7 @@ A bunch of resources for micro-mini RPG systems.
 
 * [Roll for shoes](roll-for-shoes.md) a simplistic but revolutionary system. You roll for every action you need, even if it's know if you have your shoes on. Built for med-fan, but can be adapted to any settings.
 * [Techno-Pyschic Samurai](techno-psychic-samurai.md) A cyberpunk thriller game. Players are street samurais with awesome mind powers in a corrupted city controlled by evil corporations.
-
+* [Six word RPG (and variants)](six-word-rpg.md), by Mark Damon Hughes.
 ----
 
 ## En français
