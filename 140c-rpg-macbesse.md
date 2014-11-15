@@ -1,8 +1,8 @@
-Un "Story Game" par Macbesse:
+# Un "Story Game" par Macbesse
 
 ```
 0. Envoie au MJ et joueurs le portrait de ton perso.
-1. Google : J1 : paysage, J2 : portrait, J3 : abstrait, J4 : objet. 
+1. Google : J1 : paysage, J2 : portrait, J3 : abstrait, J4 : objet.
 2. Envoi au MJ
 3. Le MJ définit la scène.
 4. Résolvez la scène.
@@ -11,11 +11,9 @@ Un "Story Game" par Macbesse:
 
 (ce jeu dépasse la contrainte des 140 caractères, mais il est archivé ici grâce à sa concision)
 
-Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=15#p1218067
+[Source](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=15#p1218067)
 
-----
-
-Le même jeu, réduit :
+## Le même jeu, réduit
 
 ```
 0 /Do portrait perso
@@ -26,4 +24,4 @@ Le même jeu, réduit :
 5 /Back→1 ; J1→J2
 ```
 
-Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=30#p1218102
+[Source](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=30#p1218102)

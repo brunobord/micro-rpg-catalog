@@ -30,7 +30,7 @@ A bunch of resources for micro-mini RPG systems.
 
 * [Dé pour se chausser](dé-pour-se-chausser.md) Traduction en français de "Roll for shoes", par votre serviteur.
 * [Keyword RPG](keyword-rpg.md), par Philippe Tromeur, alias Soner Du. “A l'époque du premier forum Casus à la fin des années 90, j'avais créé "keyword RPG" qui tenait dans le champ "keywords" d'un post de forum, qui faisait 80 caractères, je crois.”
- 
+
 ### Le challenge 140c RPG
 
 Plusieurs propositions de jeux qui tiennent en un tweet.

@@ -1,3 +1,5 @@
+# Le Grümph
+
 Quelques entrées par Le Grümph pour le challenge "jeu qui tiendrait dans un tweet"
 
 ```
@@ -23,8 +25,7 @@ Dgt 1d6 (+2 si aspect)
 3 PH : réussir/inventer/soin
 ```
 
-Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333#p1217481
-
+[Source](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333#p1217481)
 
 ----
 
@@ -38,5 +39,7 @@ Tir <> 12/18 - dgt 6D
 Enc - 1D/3D
 ```
 
-* Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333#p1217547
+----
+
+* [Source](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333#p1217547)
 * il fournit également [des cartes à imprimer en PDF](http://legrumph.org/SP/Eleusis/TweetRPG.pdf), pour avoir le jeu dans la poche

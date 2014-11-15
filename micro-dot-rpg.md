@@ -1,4 +1,6 @@
-Micro-Dot-RPG, by TrapperQ
+# Micro-Dot-RPG
+
+A RPG system "that would fit on a stamp" by TrapperQ
 
 
 ````
@@ -11,5 +13,7 @@ Roll 1d4
 3. Success
 4. Amazing Critical
 ```
+
+----
 
 [source](http://forum.rpg.net/showthread.php?741769-I-want-Micro-Systems&p=18471850#post18471850)
