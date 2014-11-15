@@ -10,3 +10,16 @@ Soin 1/j.
 ````
 
 Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=15#p1217727
+
+----
+
+```
+Att : combat magie autre
+1 à 1D, 1 à 2D, 1 à 3D
+Test R avec 1, 2 ou 3 sur un dé
+Si 1 dom, R avec 1 ou 2
+2 dom : avec 1
+3 ou + : coma → †
+````
+
+Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=15#p1218014
