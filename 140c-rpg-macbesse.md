@@ -25,3 +25,5 @@ Le même jeu, réduit :
 4. /Resolve scène.
 5. /Back -> 1 ; J1->J2
 ```
+
+Source: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=24333&start=30#p1218102
