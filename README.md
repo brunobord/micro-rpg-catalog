@@ -9,6 +9,20 @@ A bunch of resources for micro-mini RPG systems.
 * [Roll for shoes](roll-for-shoes.md) a simplistic but revolutionary system. You roll for every action you need, even if it's know if you have your shoes on. Built for med-fan, but can be adapted to any settings.
 * [Techno-Pyschic Samurai](techno-psychic-samurai.md) A cyberpunk thriller game. Players are street samurais with awesome mind powers in a corrupted city controlled by evil corporations.
 * [Six word RPG (and variants)](six-word-rpg.md), by Mark Damon Hughes.
+
+
+### 140c RPGs
+
+* [by Felan (and a variant by AsIf)](140c-rpg-felan.md)
+* [by CarpeGuitarrem](140c-rpg-carpeguitarrem.md)
+* [a set of tweets that are a full "D&D-like" game](140c-rpg-biest.md), by Biest
+* [transcripts of "the trouble with Rose" and "Fatal"](140c-rpg-zircher.md) by Zircher,
+* [Character investments, a Dragon Den's freeform](140c-rpg-james-mullen.md) by James Mullen,
+* [Joe McDaldno's entry](140c-rpg-mcdaldno.md),
+* [Another story game by JDCorley](140c-rpg-jdcorley.md),
+* [A LARP complete ruleset, in less than 140c](140c-rpg-w176.md),
+ 
+
 ----
 
 ## En français
