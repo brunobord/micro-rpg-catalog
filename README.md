@@ -21,7 +21,8 @@ A bunch of resources for micro-mini RPG systems.
 * [Joe McDaldno's entry](140c-rpg-mcdaldno.md),
 * [Another story game by JDCorley](140c-rpg-jdcorley.md),
 * [A LARP complete ruleset, in less than 140c](140c-rpg-w176.md),
- 
+* [Darkmoon Inc. entry](140c-rpg-darkmoon-inc.md)
+
 
 ----
 
