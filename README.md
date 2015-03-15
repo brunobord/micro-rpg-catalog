@@ -24,6 +24,11 @@ A bunch of resources for micro-mini RPG systems.
 * [A LARP complete ruleset, in less than 140c](140c-rpg-w176.md),
 * [Darkmoon Inc. entry](140c-rpg-darkmoon-inc.md)
 
+Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://farsightblogger.blogspot.fr/2009/07/twitter-challenge.html):
+
+* [by Brent Newhall](140c-brent-newhall.md)
+* [by Allon Mureinik](140c-allon-mureinik.md)
+
 ----
 
 ## En français
