@@ -11,7 +11,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Six word RPG (and variants)](six-word-rpg.md), by Mark Damon Hughes.
 * [Micro Dot RPG](micro-dot-rpg.md)
 * [Roll to Dodge](roll-to-dodge.md)
-* [Fortune cookies or Nuclear War](files/fortune-cookies2.pdf) -- CC-BY-SA
+* [Fortune cookies or Nuclear War](http://nickwedig.libraryofhighmoon.com/wp-content/uploads/2011/03/fortune-cookies2.pdf) -- CC-BY-SA - [Local copy, if needed](https://github.com/brunobord/micro-rpg-catalog/raw/master/files/fortune-cookies2.pdf) 
 
 ### 140c RPGs
 
