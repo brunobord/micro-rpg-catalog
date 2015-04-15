@@ -11,4 +11,4 @@
 
 ----
 
-[source: Radio Rôliste](http://radio-roliste.net/2013/12/14/radio-roliste-29-reprise-partie-1/)
+[source: Radio Rôliste](http://radio-roliste.net/2013/12/14/radio-roliste-29-reprise-partie-1/), écoutez à partir de la minute 26:00.
