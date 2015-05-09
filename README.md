@@ -50,3 +50,4 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 * [un "story-game" par Brand](140c-rpg-brand.md).
 * [un autre story-game par Macbesse](140c-prg-macbesse.md).
 * [une transcription de Feng Shui](140c-rpg-yannk.md) par Yannk.
+* [deux jeux par Gromka](140c-rpg-gromka.md)
