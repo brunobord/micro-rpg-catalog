@@ -50,4 +50,5 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 * [un "story-game" par Brand](140c-rpg-brand.md).
 * [un autre story-game par Macbesse](140c-prg-macbesse.md).
 * [une transcription de Feng Shui](140c-rpg-yannk.md) par Yannk.
-* [deux jeux par Gromka](140c-rpg-gromka.md)
+* [deux jeux par Gromka](140c-rpg-gromka.md).
+* [PJ sorciers adolescents](140c-rpg-iginin.md) par Inigin.
