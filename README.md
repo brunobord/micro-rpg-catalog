@@ -14,6 +14,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Fortune cookies or Nuclear War](http://nickwedig.libraryofhighmoon.com/wp-content/uploads/2011/03/fortune-cookies2.pdf) -- CC-BY-SA - [Local copy, if needed](https://github.com/brunobord/micro-rpg-catalog/raw/master/files/fortune-cookies2.pdf)
 * [Microdot](http://www.sreilly.pwp.blueyonder.co.uk/microdotrpg.html) [Local copy](microdot.md)
 * [Maneki Neko Engine: A Game Design Exercise](maneki-neko-engine.md) nicely put micro engine, with attributes being an onomatopoeia or a smiley.
+* [perpetuallytipsy's quickie game](perpetuallytipsy-quickie.md).
 
 ### 140c RPGs
 
