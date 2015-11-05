@@ -33,6 +33,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Another story game by JDCorley](140c-rpg-jdcorley.md),
 * [A LARP complete ruleset, in less than 140c](140c-rpg-w176.md),
 * [Darkmoon Inc. entry](140c-rpg-darkmoon-inc.md)
+* [qrpg](qrpg.md), by Bruno Bord.
 
 Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://farsightblogger.blogspot.fr/2009/07/twitter-challenge.html):
 
@@ -63,3 +64,4 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 * [une transcription de Feng Shui](140c-rpg-yannk.md) par Yannk.
 * [deux jeux par Gromka](140c-rpg-gromka.md).
 * [PJ sorciers adolescents](140c-rpg-iginin.md) par Inigin.
+* [qrpg](qrpg.md), par Bruno Bord.
