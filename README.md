@@ -19,6 +19,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Do Stuff](do-stuff.md), by Matthew Bannock.
 * [Fuggit, let's play](fuggit-lets-play.md), by Ian Toltz.
 * [2d6 Quick & Dirty Roleplaying Game](2d6QnD.md), by Chris Garrison -- CC-BY-NC-SA (v3.0).
+* [Tiny Fate](tiny-fate.md), The Tiniest Fate Hack, by Rob Donoghue.
 
 ### 140c RPGs
 
