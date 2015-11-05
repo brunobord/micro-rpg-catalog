@@ -39,9 +39,10 @@ Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://fars
 
 ## En français
 
-* [Dé pour se chausser](dé-pour-se-chausser.md) Traduction en français de "Roll for shoes", par votre serviteur.
+* [Dé pour se chausser](dé-pour-se-chausser.md) traduction en français de "Roll for shoes", par votre serviteur.
 * [Keyword RPG](keyword-rpg.md), par Philippe Tromeur, alias Soner Du. “A l'époque du premier forum Casus à la fin des années 90, j'avais créé "keyword RPG" qui tenait dans le champ "keywords" d'un post de forum, qui faisait 80 caractères, je crois.”
-* Lors d'un [épisode de Radio Rôliste](http://radio-roliste.net/2013/12/14/radio-roliste-29-reprise-partie-1/) de 2013, [Orlanth](http://www.memoiresecondaire.fr/) avait exposé un micro-système "à la manière d'Apocalypse World". L'ironie, c'était qu'il voulait démontrer que ce type de jeu était inintéressant. Et qu'en fait, à la fois ses joueurs et lui, en tant que MJ, se sont éclatés. Le résultat n'a pas vraiment de nom, alors je l'ai appelé ["Pure impro Radio-Rôliste"](pure-impro-radioroliste.md)
+* Lors d'un [épisode de Radio Rôliste](http://radio-roliste.net/2013/12/14/radio-roliste-29-reprise-partie-1/) de 2013, [Orlanth](http://www.memoiresecondaire.fr/) avait exposé un micro-système "à la manière d'Apocalypse World". L'ironie, c'était qu'il voulait démontrer que ce type de jeu était inintéressant. Et qu'en fait, à la fois ses joueurs et lui, en tant que MJ, se sont éclatés. Le résultat n'a pas vraiment de nom, alors je l'ai appelé ["Pure impro Radio-Rôliste"](pure-impro-radioroliste.md).
+* [Fais des trucs](do-stuff-fr.md), traduction en français de "Do stuff", par votre serviteur.
 
 ### Le challenge 140c RPG
 
