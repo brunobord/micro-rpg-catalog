@@ -17,6 +17,7 @@ A bunch of resources for micro-mini RPG systems.
 * [perpetuallytipsy's quickie game](perpetuallytipsy-quickie.md).
 * [Super Notecard Adventure](super-notecard-adventure.md) roleplaying games that can fit on a 3x5'' notecard or index card -- CC-BY-SA - [Local copy, if needed](https://github.com/brunobord/micro-rpg-catalog/raw/master/files/SuperNotecardAdventures.pdf).
 * [Do Stuff](do-stuff.md), by Matthew Bannock.
+* [Fuggit, let's play](fuggit-lets-play.md), by Ian Toltz.
 
 ### 140c RPGs
 
