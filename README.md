@@ -46,6 +46,7 @@ Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://fars
 * Lors d'un [épisode de Radio Rôliste](http://radio-roliste.net/2013/12/14/radio-roliste-29-reprise-partie-1/) de 2013, [Orlanth](http://www.memoiresecondaire.fr/) avait exposé un micro-système "à la manière d'Apocalypse World". L'ironie, c'était qu'il voulait démontrer que ce type de jeu était inintéressant. Et qu'en fait, à la fois ses joueurs et lui, en tant que MJ, se sont éclatés. Le résultat n'a pas vraiment de nom, alors je l'ai appelé ["Pure impro Radio-Rôliste"](pure-impro-radioroliste.md).
 * [Fais des trucs](do-stuff-fr.md), traduction en français de "Do stuff", par votre serviteur.
 * [:rH-C](http://www.misterfrankenstein.com/wordpress/wp-content/uploads/2010/03/rHC1.pdf). *"système de jeu simple et rapide, sans feuille de personnage"* par Yno, malheureusement "tous droits réservés".
+* [Less is More](less-is-more.md), par Xavier Raoult. *"Un jeu de rôle universel « nouvelle vague » complet qui tient sur le dos d’une carte de viste."*
 
 ### Le challenge 140c RPG
 
