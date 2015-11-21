@@ -21,6 +21,7 @@ A bunch of resources for micro-mini RPG systems.
 * [2d6 Quick & Dirty Roleplaying Game](2d6QnD.md), by Chris Garrison -- CC-BY-NC-SA (v3.0).
 * [Tiny Fate](tiny-fate.md), The Tiniest Fate Hack, by Rob Donoghue.
 * [Sideways](sideways.md), by James Wallis.
+* [d6-lite](d6-lite.md), by Kevin Oedekoven, and referenced on 1d4chan.
 
 ### 140c RPGs
 
