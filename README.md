@@ -22,6 +22,8 @@ A bunch of resources for micro-mini RPG systems.
 * [Tiny Fate](tiny-fate.md), The Tiniest Fate Hack, by Rob Donoghue.
 * [Sideways](sideways.md), by James Wallis.
 * [d6-lite](d6-lite.md), by Kevin Oedekoven, and referenced on 1d4chan.
+* [A Pretty Useless One Paragraph RPG Thing](a-pretty-useless-one-paragraph-rpg-thing.md) by David Black.
+* [Another Simple Dice Mechanic RPG System](another-simple-dice-mechanic-rpg-system.md)
 
 ### 140c RPGs
 
