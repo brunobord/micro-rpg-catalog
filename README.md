@@ -24,6 +24,7 @@ A bunch of resources for micro-mini RPG systems.
 * [d6-lite](d6-lite.md), by Kevin Oedekoven, and referenced on 1d4chan.
 * [A Pretty Useless One Paragraph RPG Thing](a-pretty-useless-one-paragraph-rpg-thing.md) by David Black.
 * [Another Simple Dice Mechanic RPG System](another-simple-dice-mechanic-rpg-system.md)
+* [Threepenny Space Opera](threepenny-space-opera.md)
 
 ### 140c RPGs
 
