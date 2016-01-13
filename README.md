@@ -25,6 +25,7 @@ A bunch of resources for micro-mini RPG systems.
 * [A Pretty Useless One Paragraph RPG Thing](a-pretty-useless-one-paragraph-rpg-thing.md) by David Black.
 * [Another Simple Dice Mechanic RPG System](another-simple-dice-mechanic-rpg-system.md)
 * [Threepenny Space Opera](threepenny-space-opera.md)
+* [Seulement Un Dé](seulement-un-dé.md), by [/u/Rosario_Di_Spada](https://www.reddit.com/user/Rosario_Di_Spada)
 
 ### 140c RPGs
 
