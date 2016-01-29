@@ -23,9 +23,10 @@ A bunch of resources for micro-mini RPG systems.
 * [Sideways](sideways.md), by James Wallis.
 * [d6-lite](d6-lite.md), by Kevin Oedekoven, and referenced on 1d4chan.
 * [A Pretty Useless One Paragraph RPG Thing](a-pretty-useless-one-paragraph-rpg-thing.md) by David Black.
-* [Another Simple Dice Mechanic RPG System](another-simple-dice-mechanic-rpg-system.md)
+* [Another Simple Dice Mechanic RPG System](another-simple-dice-mechanic-rpg-system.md).
 * [Threepenny Space Opera](threepenny-space-opera.md)
-* [Seulement Un Dé](seulement-un-dé.md), by [/u/Rosario_Di_Spada](https://www.reddit.com/user/Rosario_Di_Spada)
+* [Seulement Un Dé](seulement-un-dé.md), by [/u/Rosario_Di_Spada](https://www.reddit.com/user/Rosario_Di_Spada).
+* [Alpha 2.0](alpha-2.0.md), by [/u/Ro_Gan](https://www.reddit.com/user/Ro_Gan).
 
 ### 140c RPGs
 
