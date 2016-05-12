@@ -28,6 +28,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Threepenny Space Opera](threepenny-space-opera.md)
 * [Seulement Un Dé](seulement-un-dé.md), by [/u/Rosario_Di_Spada](https://www.reddit.com/user/Rosario_Di_Spada).
 * [Alpha 2.0](alpha-2.0.md), by [/u/Ro_Gan](https://www.reddit.com/user/Ro_Gan).
+* [Basic Focus](basic-focus.md), by Rob Donoghue.
 
 ### 140c RPGs
 
