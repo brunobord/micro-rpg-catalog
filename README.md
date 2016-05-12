@@ -30,6 +30,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Alpha 2.0](alpha-2.0.md), by [/u/Ro_Gan](https://www.reddit.com/user/Ro_Gan).
 * [Basic Focus](basic-focus.md), by Rob Donoghue.
 * [Unexpected Journeys](unexpected-journeys.md), by rpg-tinker at blogspot.
+* [succeed or die](succeed-or-die.md)
 
 ### 140c RPGs
 
