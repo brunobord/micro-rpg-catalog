@@ -32,6 +32,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Unexpected Journeys](unexpected-journeys.md), by rpg-tinker at blogspot.
 * [succeed or die](succeed-or-die.md).
 * [All Outta Bubblegum](all-outta-bubblegum.md) by Michael "Epoch" Sullivan and Jeffrey Grant.
+* [The Shower Hack](the-shower-hack.md) by The ChaosGrenade.
 
 ### 140c RPGs
 
