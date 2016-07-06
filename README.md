@@ -30,7 +30,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Alpha 2.0](alpha-2.0.md), by [/u/Ro_Gan](https://www.reddit.com/user/Ro_Gan).
 * [Basic Focus](basic-focus.md), by Rob Donoghue.
 * [Unexpected Journeys](unexpected-journeys.md), by rpg-tinker at blogspot.
-* [succeed or die](succeed-or-die.md).
+* [succeed or die](succeed-or-die.md), by [/u/McDie88](https://www.reddit.com/user/McDie88).
 * [All Outta Bubblegum](all-outta-bubblegum.md) by Michael "Epoch" Sullivan and Jeffrey Grant.
 * [The Shower Hack](the-shower-hack.md) by The ChaosGrenade.
 
