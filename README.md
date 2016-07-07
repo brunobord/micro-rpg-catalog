@@ -33,6 +33,7 @@ A bunch of resources for micro-mini RPG systems.
 * [succeed or die](succeed-or-die.md), by [/u/McDie88](https://www.reddit.com/user/McDie88).
 * [All Outta Bubblegum](all-outta-bubblegum.md) by Michael "Epoch" Sullivan and Jeffrey Grant.
 * [The Shower Hack](the-shower-hack.md) by The ChaosGrenade.
+* [Decypher System](decypher-system.md) by Brent P. Newhall.
 
 ### 140c RPGs
 
