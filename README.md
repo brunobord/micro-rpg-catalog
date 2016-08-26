@@ -34,6 +34,7 @@ A bunch of resources for micro-mini RPG systems.
 * [All Outta Bubblegum](all-outta-bubblegum.md) by Michael "Epoch" Sullivan and Jeffrey Grant.
 * [The Shower Hack](the-shower-hack.md) by The ChaosGrenade.
 * [Decypher System](decypher-system.md) by Brent P. Newhall.
+* [Three](three.md) by [/u/OldEcho](https://www.reddit.com/user/OldEcho).
 
 ### 140c RPGs
 
