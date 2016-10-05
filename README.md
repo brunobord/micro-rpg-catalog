@@ -36,6 +36,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Decypher System](decypher-system.md) by Brent P. Newhall.
 * [Three](three.md) by [/u/OldEcho](https://www.reddit.com/user/OldEcho).
 * [Stickynote Quest](stickynote-quest.md), by Scott Malthouse.
+* [Roll your 6](roll-your-six.md), by [/u/PebbleThief](https://www.reddit.com/user/PebbleThief).
 
 ### 140c RPGs
 
