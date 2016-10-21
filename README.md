@@ -68,6 +68,7 @@ Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://fars
 * [Less is More](less-is-more.md), par Xavier Raoult. *"Un jeu de rôle universel « nouvelle vague » complet qui tient sur le dos d’une carte de viste."*.
 * [Facile d'Utilisation](facile-d-utilisation.md), *"un jeu en 1 page [..] adaptable à à peu près tout setting, basé sur FU RPG et (violemment) simplifié"*, par Kakita Inigin.
 * [Réussir ou mourir](succeed-or-die.fr.md), traduction en VF de "Succeed or Die" par votre serviteur.
+* [Système Decypher](decypher-system-vf.md), Traduction en VF de "Decypher System" de Brent P. Newhall, par votre serviteur.
 
 ### Le challenge 140c RPG
 
