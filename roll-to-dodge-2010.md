@@ -1,5 +1,7 @@
 # Roll to Dodge
 
+> A 2010 version, extracted from the ultimaterpg forums.
+
 The GM (Game Master) posts a situation the players are in. The players then post
 their actions, according to the conditions GM sets. The GM then rolls for the
 actions' results, and writes them out in his post. Then the players post actions
