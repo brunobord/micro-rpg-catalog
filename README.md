@@ -10,6 +10,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Techno-Pyschic Samurai](techno-psychic-samurai.md) A cyberpunk thriller game. Players are street samurais with awesome mind powers in a corrupted city controlled by evil corporations.
 * [Six word RPG (and variants)](six-word-rpg.md), by Mark Damon Hughes.
 * [Micro Dot RPG](micro-dot-rpg.md)
+* [Roll to Dodge (canonical version)](roll-to-dodge-canonical.md)
 * [Roll to Dodge (2008 version)](roll-to-dodge-2008.md)
 * [Roll to Dodge (2010 version)](roll-to-dodge-2010.md)
 * [Fortune cookies or Nuclear War](http://nickwedig.libraryofhighmoon.com/wp-content/uploads/2011/03/fortune-cookies2.pdf) -- CC-BY-SA - [Local copy, if needed](https://github.com/brunobord/micro-rpg-catalog/raw/master/files/fortune-cookies2.pdf)
