@@ -39,6 +39,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Three](three.md) by [/u/OldEcho](https://www.reddit.com/user/OldEcho).
 * [Stickynote Quest](stickynote-quest.md), by Scott Malthouse.
 * [Roll your 6](roll-your-six.md), by [/u/PebbleThief](https://www.reddit.com/user/PebbleThief).
+* [New Troubles](new-troubles.md), by Brent Newhall.
 
 ### 140c RPGs
 
