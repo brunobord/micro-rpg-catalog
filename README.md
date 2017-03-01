@@ -40,6 +40,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Stickynote Quest](stickynote-quest.md), by Scott Malthouse.
 * [Roll your 6](roll-your-six.md), by [/u/PebbleThief](https://www.reddit.com/user/PebbleThief).
 * [New Troubles](new-troubles.md), by Brent Newhall.
+* [Sketchy D&D](sketchy-dnd.md), by Éric Nieudan.
 
 ### 140c RPGs
 
