@@ -41,6 +41,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Roll your 6](roll-your-six.md), by [/u/PebbleThief](https://www.reddit.com/user/PebbleThief).
 * [New Troubles](new-troubles.md), by Brent Newhall.
 * [Sketchy D&D](sketchy-dnd.md), by Éric Nieudan.
+* [The 4 Coins Oracle](four-coins-oracle.md), by @CarlosLunaMota.
 
 ### 140c RPGs
 
