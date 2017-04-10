@@ -42,6 +42,7 @@ A bunch of resources for micro-mini RPG systems.
 * [New Troubles](new-troubles.md), by Brent Newhall.
 * [Sketchy D&D](sketchy-dnd.md), by Éric Nieudan.
 * [The 4 Coins Oracle](four-coins-oracle.md), by @CarlosLunaMota.
+* [New Dawn](new-dawn.md), by [/u/dwemthy](https://www.reddit.com/user/dwemthy).
 
 ### 140c RPGs
 
