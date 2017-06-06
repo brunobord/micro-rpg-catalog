@@ -43,6 +43,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Sketchy D&D](sketchy-dnd.md), by Éric Nieudan.
 * [The 4 Coins Oracle](four-coins-oracle.md), by @CarlosLunaMota.
 * [New Dawn](new-dawn.md), by [/u/dwemthy](https://www.reddit.com/user/dwemthy).
+* [Story Adventures!](story-adventures.md), a 200-word-RPG, by Jamie & Rob Donoghue.
 
 ### 140c RPGs
 
