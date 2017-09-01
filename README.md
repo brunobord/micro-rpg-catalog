@@ -90,3 +90,9 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 * [deux jeux par Gromka](140c-rpg-gromka.md).
 * [PJ sorciers adolescents](140c-rpg-iginin.md) par Inigin.
 * [qrpg](qrpg.md), par Bruno Bord.
+
+----
+
+## Other resources
+
+[The 200-word RPG Challenge](https://200wordrpg.github.io/) is a game design contest organized by David Schirduan and Marshall Miller about creating roleplaying games in 200 words or less.
