@@ -33,4 +33,4 @@ And then he rolls a 3-6 roll for kicking down the dungeon door, and upgrades it 
 
 ----
 
-[source](http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on/p1)
+[source](http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on/p1) - Ben Wray.
