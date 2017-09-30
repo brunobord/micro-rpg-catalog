@@ -63,6 +63,15 @@ Older entries for 140c RPG, a contest initiated by [John Mark Hicks](http://fars
 * [by Brent Newhall](140c-brent-newhall.md)
 * [by Allon Mureinik](140c-allon-mureinik.md)
 
+
+### 280RPG
+
+Following Twitter Inc. annoucement to roll out a new 280-character limit for the tweets, [the.flattest.cyborg has thrown a challenge](https://twitter.com/cartweel/status/913572914712252418): write a RPG in 280 characters or less.
+
+You may search for the [#280rpg hashtag](https://twitter.com/hashtag/280rpg?src=hash).
+
+* A [new version of D&D, powered by the emojicalypse](280-rpg-emojicalypse.md), by Éric Nieudan.
+
 ----
 
 ## En français
