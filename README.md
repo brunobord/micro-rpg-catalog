@@ -44,6 +44,7 @@ A bunch of resources for micro-mini RPG systems.
 * [The 4 Coins Oracle](four-coins-oracle.md), by @CarlosLunaMota.
 * [New Dawn](new-dawn.md), by [/u/dwemthy](https://www.reddit.com/user/dwemthy).
 * [Story Adventures!](story-adventures.md), a 200-word-RPG, by Jamie & Rob Donoghue.
+* [1d6 osr ultra-lite + small dungeon](1d6-osr-ultra-lite-and-small-dungeon.md), by ramonthe3rd.
 
 ### 140c RPGs
 
