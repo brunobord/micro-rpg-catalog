@@ -27,6 +27,7 @@ All non-covered checks:
 5. doctor
 6. artificer
 
+<span style="color: #fff;">Duplicate results: 7. MONSTER</span>
 
 (You can roll to see if a specific background - related object is in your person)
 
