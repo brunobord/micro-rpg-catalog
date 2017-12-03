@@ -45,4 +45,4 @@ Alternativelly, print this image and cut through the black lines. Shuffle the 12
 
 ----
 
-Source: http://daylands.blogspot.fr/2017/11/1d6-osr-ultra-lite-small-dungeon.html
+Source: <http://daylands.blogspot.fr/2017/11/1d6-osr-ultra-lite-small-dungeon.html>
