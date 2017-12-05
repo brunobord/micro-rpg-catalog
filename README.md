@@ -2,7 +2,7 @@
 
 A bunch of resources for micro-mini RPG systems.
 
-> Most RPG systems published here don't mention any license or terms of use. I'm putting the here to gather them for archiving purposes, but you may take note that they're all (c) by their authors, unless mentioned otherwise.
+> Most RPG systems published here don't mention any license or terms of use. I'm putting them here to gather them for archiving purposes, but you may take note that they're all (c) by their authors, unless mentioned otherwise.
 
 ## English
 
