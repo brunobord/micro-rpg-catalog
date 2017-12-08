@@ -45,6 +45,8 @@ A bunch of resources for micro-mini RPG systems.
 * [New Dawn](new-dawn.md), by [/u/dwemthy](https://www.reddit.com/user/dwemthy).
 * [Story Adventures!](story-adventures.md), a 200-word-RPG, by Jamie & Rob Donoghue.
 * [1d6 osr ultra-lite + small dungeon](1d6-osr-ultra-lite-and-small-dungeon.md), by ramonthe3rd.
+* [Unknown!](unknown.md), by Chris McDowall (a minimalist variation on Searchers of the Unknown - yes, it's doable).
+* [Odd Lite](odd-lite.md), by Chris McDowall.
 
 ### 140c RPGs
 
