@@ -47,6 +47,7 @@ A bunch of resources for micro-mini RPG systems.
 * [1d6 osr ultra-lite + small dungeon](1d6-osr-ultra-lite-and-small-dungeon.md), by ramonthe3rd.
 * [Unknown!](unknown.md), by Chris McDowall (a minimalist variation on Searchers of the Unknown - yes, it's doable).
 * [Odd Lite](odd-lite.md), by Chris McDowall.
+* [Too Many Hacks](too-many-hacks.md), by Andrei Baltakmens.
 
 ### 140c RPGs
 
