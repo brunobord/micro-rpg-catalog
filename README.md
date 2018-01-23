@@ -48,6 +48,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Unknown!](unknown.md), by Chris McDowall (a minimalist variation on Searchers of the Unknown - yes, it's doable).
 * [Odd Lite](odd-lite.md), by Chris McDowall.
 * [Too Many Hacks](too-many-hacks.md), by Andrei Baltakmens.
+* [The minimald6 game system](minimald6.md), Norbert G. Matausch.
 
 ### 140c RPGs
 
