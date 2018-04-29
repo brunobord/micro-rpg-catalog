@@ -76,6 +76,7 @@ Following Twitter Inc. annoucement to roll out a new 280-character limit for the
 You may search for the [#280rpg hashtag](https://twitter.com/hashtag/280rpg?src=hash).
 
 * A [new version of D&D, powered by the emojicalypse](280-rpg-emojicalypse.md), by Éric Nieudan.
+* [emoji D&D](emoji-dnd.md), again by Éric Nieudan.
 
 ----
 
