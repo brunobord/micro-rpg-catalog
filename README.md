@@ -49,6 +49,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Odd Lite](odd-lite.md), by Chris McDowall.
 * [Too Many Hacks](too-many-hacks.md), by Andrei Baltakmens.
 * [The minimald6 game system](minimald6.md), Norbert G. Matausch.
+* [Demigod Dukes in the Dungeons of Doom](demigod-dukes-in-the-dungeons-of-doom.md), by Henri & Nathan, a half-joking half-serious game submitted for the 200-word RPG challenge '18. Basically, B/X rules in 7 words, if you don't include the title.
 
 ### 140c RPGs
 
