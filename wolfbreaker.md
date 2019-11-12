@@ -16,7 +16,7 @@ All Start at 1-in-6, add skill points.
 Warrior, Burglar, Ranger, Healer, Scholar
 
 **Character Creation:**  
-Roll 3d4, increase corresponding stat by 1  
+Roll 3d4, increase corresponding stat by 1[^1]  
 Base Attack Bonus is Warrior skill, AC is Armor + Dex, HP is 1d8 + Str  
 Save is 15, goes down each level.
 
@@ -37,3 +37,6 @@ if no d4s are available, ability score generation could be:
 6: same, except it's player to the right
 
 source: <https://twitter.com/wereoctopus/status/1192272766814179328>
+
+
+[^1]: Note by Bruno Bord: this rule is a bit hard to understand. it simply means that you have 4 attributes, that you can enumerate as 1=Strength, 2=Dexterity, 3=Intelligence, 4=Charisma. Rolling 1, 4 & 2 would mean +1 to STR, DEX & CHA. Rolling 1, 1, 2 would mean +2 to STR & +1 to DEX.
