@@ -51,6 +51,7 @@ A bunch of resources for micro-mini RPG systems.
 * [The minimald6 game system](minimald6.md), Norbert G. Matausch.
 * [Demigod Dukes in the Dungeons of Doom](demigod-dukes-in-the-dungeons-of-doom.md), by Henri & Nathan, a half-joking half-serious game submitted for the 200-word RPG challenge '18. Basically, B/X rules in 7 words, if you don't include the title.
 * [Six jobs and a 1d12 system](six-jobs-and-a-d12-system.md), by jack tremaine. The title tells it all.
+* [Wolfbreaker](wolfbreaker.md), by Chris P. Wolf. As sharp and simple a you can dream of. Possibly compatible with D&D, hackable using the "Raised by Wolves" license. Comes with its very first "hack": an alternate stat generation procedure.
 
 ### 140c RPGs
 
