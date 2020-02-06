@@ -52,6 +52,7 @@ A bunch of resources for micro-mini RPG systems.
 * [Demigod Dukes in the Dungeons of Doom](demigod-dukes-in-the-dungeons-of-doom.md), by Henri & Nathan, a half-joking half-serious game submitted for the 200-word RPG challenge '18. Basically, B/X rules in 7 words, if you don't include the title.
 * [Six jobs and a 1d12 system](six-jobs-and-a-d12-system.md), by jack tremaine. The title tells it all.
 * [Wolfbreaker](wolfbreaker.md), by Chris P. Wolf. As sharp and simple a you can dream of. Possibly compatible with D&D, hackable using the "Raised by Wolves" license. Comes with its very first "hack": an alternate stat generation procedure.
+* [Run Die Repeat](https://labrysgames.itch.io/run-die-repeat) by Labrys Games: "all players take turns controlling the same character in a Groundhog Day-ish nightmare and escaping from monsters and threats."
 
 ### 140c RPGs
 
@@ -94,6 +95,7 @@ You may search for the [#280rpg hashtag](https://twitter.com/hashtag/280rpg?src=
 * [Facile d'Utilisation](facile-d-utilisation.md), *"un jeu en 1 page [..] adaptable à à peu près tout setting, basé sur FU RPG et (violemment) simplifié"*, par Kakita Inigin.
 * [Réussir ou mourir](succeed-or-die.fr.md), traduction en VF de "Succeed or Die" par votre serviteur.
 * [Système Decypher](decypher-system-vf.md), Traduction en VF de "Decypher System" de Brent P. Newhall, par votre serviteur.
+* [Run Die Repeat](https://chezsoi.org/lucas/blog/run-die-repeat.html) de Labrys Games, traduit par Lucas Cimon : "Vous êtes piégé dans un cauchemar, pourchassé par des monstres. Chaque fois que vous mourrez, vous recommencez exactement au même endroit, au même instant. Trouverez-vous comment vous échapper ?"
 
 ### Le challenge 140c RPG
 
