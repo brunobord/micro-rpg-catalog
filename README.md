@@ -111,6 +111,11 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 
 ----
 
+## In Italiano
+* [Tira per le scarpe](ita/dé-pour-se-chausser.md) traduzione in italiano di "Roll for shoes".
+
+----
+
 ## Other resources
 
 [The 200-word RPG Challenge](https://200wordrpg.github.io/) is a game design contest organized by David Schirduan and Marshall Miller about creating roleplaying games in 200 words or less.
