@@ -103,10 +103,10 @@ Plusieurs propositions de jeux qui tiennent en un tweet.
 * [un jeu par Mugen](140c-rpg-mugen.md).
 * [deux propositions par Pak](140c-rpg-pak.md).
 * [un "story-game" par Brand](140c-rpg-brand.md).
-* [un autre story-game par Macbesse](140c-prg-macbesse.md).
+* [un autre story-game par Macbesse](140c-rpg-macbesse.md).
 * [une transcription de Feng Shui](140c-rpg-yannk.md) par Yannk.
 * [deux jeux par Gromka](140c-rpg-gromka.md).
-* [PJ sorciers adolescents](140c-rpg-iginin.md) par Inigin.
+* [PJ sorciers adolescents](140c-rpg-inigin.md) par Inigin.
 * [qrpg](qrpg.md), par Bruno Bord.
 
 ----
