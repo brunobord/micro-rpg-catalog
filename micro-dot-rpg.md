@@ -2,8 +2,7 @@
 
 A RPG system "that would fit on a stamp" by TrapperQ
 
-
-````
+```
 Micro-Dot-RPG
 Nobody dies
 State action and 
